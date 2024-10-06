@@ -1,4 +1,4 @@
-#include "geneticalgorithm.hpp"
+#include "geneticAlgorithm.hpp"
 #include <string>
 #include <vector>
 
